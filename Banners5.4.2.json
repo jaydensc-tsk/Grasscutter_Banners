@@ -19,7 +19,7 @@
   "poolBalanceWeights5":[[1,30],[147,150],[181,10230]],
   "bannerType":"EVENT"
 },{
-  "comment":"5.4.2 Kaedehara Kazuha",
+  "comment":"5.4.2 Wriothesley",
   "gachaType":400,
   "scheduleId":3,
   "prefabPath":"GachaShowPanel_A154",
