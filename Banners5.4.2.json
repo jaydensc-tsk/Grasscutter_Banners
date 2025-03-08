@@ -19,7 +19,7 @@
   "poolBalanceWeights5":[[1,30],[147,150],[181,10230]],
   "bannerType":"EVENT"
 },{
-  "comment":"5.0.1 Kaedehara Kazuha",
+  "comment":"5.4.2 Kaedehara Kazuha",
   "gachaType":400,
   "scheduleId":3,
   "prefabPath":"GachaShowPanel_A200",
@@ -44,7 +44,7 @@
   "gachaType":302,
   "scheduleId":2,
   "prefabPath":"GachaShowPanel_A201",
-  "titlePath":"UI_GACHA_SHOW_PANEL_A020_TITLE",
+  "titlePath":"UI_GACHA_SHOW_PANEL_0A159_TITLE",
   "costItemId":223,
   "endTime":1924992000,
   "sortId":2,
