@@ -40,7 +40,7 @@
   "poolBalanceWeights5":[[1,30],[147,150],[181,10230]],
   "bannerType":"EVENT"
 },{
-  "comment":"5.0.1",
+  "comment":"5.4.2",
   "gachaType":302,
   "scheduleId":2,
   "prefabPath":"GachaShowPanel_A201",
